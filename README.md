@@ -1,6 +1,7 @@
 ## _Desafio realizado no Bootcamp da DIO (Digital Innovation One) com parceria a Everis._
 ### _QA Assurance Beginner - Projeto API Rest de consultar cidades do Brasil._ ✔️
 
+* Instrutor do Projeto: André Gomes, https://github.com/andrelugomes 👨‍🏫
 ## Requirements
 
 * Linux
